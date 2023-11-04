@@ -1,14 +1,11 @@
-# Automatic #
+# bptfAutomatic #
 
 ### Easy install ###
 * Install [Node.js](https://nodejs.org/en/download/current/) - 32 bit version for 32 bit systems or 64 bit version for 64 bit systems (16.0.0 minimum).
-
 * Download bptfautomatic app
-
-"Click the 'Code' button, then select 'Download ZIP' and unzip the downloaded file."
-
+    - Click the 'Code' button, then select 'Download ZIP' and unzip the downloaded file.
 * Open the terminal/console and navigate to the 'bptfautomatic'  folder.
- "cd ./desktop/bptfautomatic"
+    - cd ./desktop/bptfautomatic
 
 * install all dependencies of an app, just type "npm install"
 * Run `node automatic` in the terminal/console.

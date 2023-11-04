@@ -1,0 +1,37 @@
+{
+  "name": "bptfautomatic",
+  "version": "1.0.0",
+  "description": "This is a fixed version of the backpack.tf automatic",
+  "author": {
+    "name": "Versl",
+    "url": "https://steamcommunity.com/id/theversal/"
+  },
+  "contributors": [],
+  "main": "./automatic.js",
+  "repository": "",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "colors": "^1.1.2",
+    "moment": "^2.10.6",
+    "open": "^0.0.5",
+    "prompt": "^1.0.0",
+    "steam-session": "^1.2.4",
+    "steam-totp": "^1.4.0",
+    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-user": "^4.28.8",
+    "steamcommunity": "^3.46.1",
+    "winston": "^2.4.7"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.2",
+    "printf": "^0.2.5"
+  }
+}

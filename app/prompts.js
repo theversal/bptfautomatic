@@ -1,4 +1,3 @@
-const open = require('open');
 const Utils = require('./utils');
 
 let log, config;
@@ -30,7 +29,6 @@ exports.steamGuardCode = (isMobile) => {
 };
 
 exports.CAPTCHA = (url) => {
-    open(url);
     return prompt({
         "description": "CAPTCHA".green,
         "type": "string",
